@@ -1,6 +1,5 @@
----------------------------------------------------
-|   ¿Cómo usar este script? - Giovani Calderon    |
----------------------------------------------------
+# ¿Cómo usar este script? - Giovani Calderon
+
 
 1. Abrir la plataforma de eventos https://eventos.cucei.udg.mx/
 2. Ir a la sección "Actividades"
@@ -12,8 +11,7 @@
 8. Pegarlo en la primer columna del documento Eventos CUCEI de Google Sheets
 
 
-Nota: Al copiar el contenido al sheets,
-habrá columnas que tendrán que llenar manualmente como:
+**Nota: Al copiar el contenido al sheets habrá columnas que tendrán que llenar manualmente como:**
 - Día (de la semana)
 - Protocolo
 - Servicios Generales
